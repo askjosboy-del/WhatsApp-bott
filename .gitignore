@@ -2,3 +2,5 @@ node_modules
 session
 npm-debug.log
 .env
+node_modules/
+session/
